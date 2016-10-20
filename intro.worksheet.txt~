@@ -1,4 +1,4 @@
-"THE AMAZING HARE"
+4 Adding and Committing work
 Let's add a new le with some contents to the repository. Download the story of the
 Hare and the Tortoise, from this URL:
 http://www.std.com/obi/Fairy.Tales/Grimm/hare.and.tortoise.txt
@@ -107,5 +107,5 @@ Writing objects: 100% (3/3), 1.42 KiB | 0 bytes/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
 To git@github.com:username/reponame.git
 df9c54e..06c714c  master -> master
-Go and check out Github in your browser to check that the commit. 
-Edit the title of the file. 
+Go and check out Github in your browser to check that the commit - and the Hare
+and the Tortoise story - ma
